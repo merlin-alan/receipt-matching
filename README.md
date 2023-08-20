@@ -6,16 +6,15 @@ Since the data extraction from the receipt image is not always perfect (for exam
 
 model.ipynb contains the data exploration, data summary, modeling steps and final summary.
 
-python modules required:
-hyperopt==0.2.7
-imbalanced-learn==0.11.0
-imblearn==0.0
-matplotlib==3.7.2
-matplotlib-inline==0.1.6
-numpy==1.24.3
-pandas==2.0.0
-scikit-learn==1.3.0
-scipy==1.11.2
-seaborn==0.12.2
-sklearn==0.0
+- hyperopt==0.2.7
+- imbalanced-learn==0.11.0
+- imblearn==0.0
+- matplotlib==3.7.2
+- matplotlib-inline==0.1.6
+- numpy==1.24.3
+- pandas==2.0.0
+- scikit-learn==1.3.0
+- scipy==1.11.2
+- seaborn==0.12.2
+- sklearn==0.0
 
