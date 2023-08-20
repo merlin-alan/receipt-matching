@@ -5,7 +5,12 @@ Since the data extraction from the receipt image is not always perfect (for exam
 
 
 ### model.ipynb 
-contains the data exploration, data summary, modeling steps and final summary.
+The jupyter notebook contains 
+- data exploration
+- data summary
+- modeling steps
+- prediction steps
+- model summary
 
 ### Python modules required
 
