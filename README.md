@@ -8,7 +8,7 @@ Since the data extraction from the receipt image is not always perfect (for exam
 The jupyter notebook contains 
 - data exploration
 - data summary
-- modeling steps
+- ML modeling steps
 - prediction steps
 - model summary
 
