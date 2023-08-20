@@ -12,7 +12,7 @@ The jupyter notebook contains
 - prediction steps
 - model summary
 
-### Python modules required
+### python modules required
 
 - hyperopt==0.2.7
 - imbalanced-learn==0.11.0
